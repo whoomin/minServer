@@ -1,1 +1,2 @@
 # minServer
+hello world!
